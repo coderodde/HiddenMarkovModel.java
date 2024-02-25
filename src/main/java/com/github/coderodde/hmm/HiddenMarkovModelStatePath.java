@@ -6,8 +6,7 @@ import static java.lang.Math.pow;
 import java.util.List;
 
 /**
- * This class 
- * @author rodio
+ * This class stores the state path over the hidden states of an HMM.
  */
 public final class HiddenMarkovModelStatePath 
     implements Comparable<HiddenMarkovModelStatePath> {
